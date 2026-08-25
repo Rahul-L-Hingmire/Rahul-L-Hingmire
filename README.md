@@ -2,7 +2,7 @@
 
 <div style="display:flex; justify-content:center; padding-top:40px;">
     <img
-        src="<img width="498" height="280" alt="gif2" src="https://github.com/user-attachments/assets/c1ac8fd4-6407-4052-9234-c57180e7d73b" />"
+        src = <img width="498" height="280" alt="gif2" src="https://github.com/user-attachments/assets/c1ac8fd4-6407-4052-9234-c57180e7d73b" />
         alt="gif2"
         width="498"
         height="280"
